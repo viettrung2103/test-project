@@ -1,3 +1,4 @@
-console.log("This is from trung subbranch, sprint1 branch");
-console.log("this is new trung branch");
-console.log("This is new task from trung branch")
+console.log("This is task 1 from trung sub branch");
+console.log("This is task 2 from trung sub branch");
+console.log("This is task 3 from trung sub branch");
+
